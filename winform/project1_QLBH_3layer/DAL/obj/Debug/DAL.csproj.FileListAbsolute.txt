@@ -1,0 +1,18 @@
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\bin\Debug\DAL.dll
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\bin\Debug\DAL.pdb
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\bin\Debug\DTO.dll
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\bin\Debug\DTO.pdb
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\obj\Debug\DAL.dll
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DAL\obj\Debug\DAL.pdb
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\bin\Debug\DAL.dll
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\bin\Debug\DAL.pdb
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\bin\Debug\DTO.dll
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\bin\Debug\DTO.pdb
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\obj\Debug\DAL.dll
+C:\Users\Welcome\Documents\Visual Studio 2017\Projects\project1_QLBH_3layer\DAL\obj\Debug\DAL.pdb

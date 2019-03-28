@@ -1,0 +1,6 @@
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\bin\Debug\DTO.dll
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\bin\Debug\DTO.pdb
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\obj\Debug\DTO.dll
+C:\Users\Chi Khang\source\repos\project1_QLBH_3layer\DTO\obj\Debug\DTO.pdb
